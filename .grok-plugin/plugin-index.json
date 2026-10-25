@@ -1740,6 +1740,24 @@
         ]
       }
     },
+    "webly": {
+      "sha": "f46e5de2bef4a30b3eb0b5f95d0c630d6b6ba1b9",
+      "version": "0.14.6",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "webly",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "webly",
+            "description": "Webly hosts what agents make: publish a website, or share files and folders, at a live URL in seconds with no account,…"
+          }
+        ]
+      }
+    },
     "wix": {
       "sha": "efb531df16d945cd095c3a4fcccefd2074341a7e",
       "version": "1.33.1",
